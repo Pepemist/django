@@ -1,10 +1,17 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>{{ title }}</title>
 </head>
 <body>
-
+{% for prod in products %}
+    <img src="{{ prod.img }}" alt="Не загрузил">
+    <p>{{ prod.name }}</p>
+    <p>{{ prod.price }}</p>
+    <p>{{ prod.desc }}</p>
+{% endfor %}
 </body>
 </html>
