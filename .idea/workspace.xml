@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc41ea2-eb8f-4a94-a687-744813ea519f" name="Changes" comment="start project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_project/prod/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/prod/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_project/test_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/test_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_project/test_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/test_project/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="cfc41ea2-eb8f-4a94-a687-744813ea519f" name="Changes" comment="Динамические ссылки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +62,37 @@
       <option name="project" value="LOCAL" />
       <updated>1759072951613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add html and png">
+      <option name="closed" value="true" />
+      <created>1759083440496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083440496</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add html and png">
+      <option name="closed" value="true" />
+      <created>1759083446862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083446862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Динамические ссылки">
+      <option name="closed" value="true" />
+      <created>1759083884623</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083884623</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+    <MESSAGE value="add html and png" />
+    <MESSAGE value="Динамические ссылки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Динамические ссылки" />
   </component>
 </project>
