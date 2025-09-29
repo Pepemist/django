@@ -8,12 +8,15 @@
 </head>
 <body>
 <p><a href="{% url 'home' %}">ссылка на главную</a> </p>
-
+{% for category in categories %}
+    <p>{{ category.name }}</p>
+{% endfor %}
 {% for prod in products %}
-    <img src="{{ prod.img }}" alt="Не загрузил">
+<!--    <img src="{{ prod.img }}" alt="Не загрузил">-->
     <p>{{ prod.name }}</p>
     <p>{{ prod.price }}</p>
     <p>{{ prod.desc }}</p>
 {% endfor %}
+
 </body>
 </html>
